@@ -4,6 +4,6 @@ I like to build stuff. My area of expertise is in Java but I have worked with ma
 
 ### Other places you can find me
 
-- https://www.linkedin.com/in/ehudon
-- https://www.hackerrank.com/ehudon
-
+- https://linkedin.com/in/ehudon
+- https://hackerrank.com/ehudon
+- https://gitlab.com/ehudon
